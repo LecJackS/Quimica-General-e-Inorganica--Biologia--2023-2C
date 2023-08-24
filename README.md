@@ -1,5 +1,7 @@
 # Química General e Inorgánica 2023 2°C
 
+Materia electiva de Ciencias Naturales requerida por el programa de la Licenciatura en Ciencia de Datos de Exactas
+
 ### Videos Teóricos
 
 1. https://youtu.be/ZtGFAyMI1Qo teórica 1
