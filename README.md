@@ -1,16 +1,12 @@
 # Química General e Inorgánica 2023 2°C
 
-Materia electiva de Ciencias Naturales requerida por el programa de la Licenciatura en Ciencia de Datos de Exactas
+Materia electiva de Ciencias Naturales para Licenciatura en Ciencia de Datos de Exactas
 
 ### Videos Teóricos
 
-1. https://youtu.be/ZtGFAyMI1Qo teórica 1
-2. https://youtu.be/WH-llx-GQuo teórica 2
-3. https://youtu.be/cRSDAq9DHzw teórica 3
-4. https://youtu.be/_IMjEDT-n4w teórica 4
-5. https://youtu.be/k0M5lEmwoAo teórica 5
-6. https://youtu.be/K_7VEO9vK88 teórica 6
-7. https://youtu.be/hxRj57RkT7w teórica 7
+1. Playlist de videos teórico / prácticos 2021:
+
+   https://www.youtube.com/playlist?list=PLJouzifQSmwr7T_upRHktFlss1KqXPy3i
 
 ---
 
